@@ -1,0 +1,15 @@
+ NONLINEAR MODEL;
+ Initial time T_0;   0.00000000    
+ Final time T_1;   3.00000000    
+ Moments of inertia;   1.00000000      0.750000000      0.500000000    
+ Q (diagonal matix);  0.100000001      0.100000001      0.100000001      0.100000001      0.100000001      0.100000001    
+ R (diagonal matix);   1.00000000       1.00000000       1.00000000    
+ Initial angular velocity w_0;   1.57079995      0.785399973      0.392699987    
+ Initial angular velocity w_1;   0.00000000       0.00000000       0.00000000    
+ Initial orientation (yaw,pitch,roll);   0.00000000       0.00000000       0.00000000    
+ Final orientation (yaw,pitch,roll);   0.00000000       0.00000000       0.00000000    
+ # Intervals discretization;         400
+ Precision;   4.99999989E-03
+ Mask (1=bound.cond./0=natural);           1           1           1           0           0           0           0
+ Cost I(u);  0.833557904    
+ CPU time (s);   4.96247816    

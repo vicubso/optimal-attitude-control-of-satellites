@@ -1,0 +1,13 @@
+ LINEAR MODEL;
+ Initial time T_0;   0.00000000    
+ Final time T_1;   3.50000000    
+ Moments of inertia;  0.500000000      0.750000000       1.00000000    
+ Q (diagonal matix);   1.00000000       1.00000000       1.00000000       1.00000000       1.00000000       1.00000000    
+ R (diagonal matix);   1.00000000       1.00000000       1.00000000    
+ Initial angular velocity w_0;   0.00000000       0.00000000       0.00000000    
+ Initial angular velocity w_1;   0.00000000       0.00000000       0.00000000    
+ Initial orientation (yaw,pitch,roll);   0.00000000       0.00000000       0.00000000    
+ Final orientation (yaw,pitch,roll);   1.57079995       0.00000000       0.00000000    
+ # Intervals discretization;         200
+ Cost I(u) =    1.88097370    
+ CPU time (s);   2.25900020E-03
